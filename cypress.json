@@ -1,6 +1,6 @@
 {
   "projectId": "iwvvfy2",
-  "baseUrl": "http://localhost:3001",
+  "baseUrl": "http://localhost:3000",
   "defaultCommandTimeout": 5000,
   "retries": {
     "runMode": 4,
